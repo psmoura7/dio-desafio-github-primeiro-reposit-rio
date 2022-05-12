@@ -1,0 +1,8 @@
+Entendendo como o a linguagem markdown funciona para a formatação de texto.
+
+Links Úteis: 
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+Utilizado como um conversor de texto em HTML.
+
