@@ -1,0 +1,5 @@
+Link para a intalação do Git: 
+https://git-scm.com/downloads
+
+Link para os comandos básicos de Git:
+https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
